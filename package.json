@@ -1,0 +1,26 @@
+{
+  "name": "socket-tot-app",
+  "version": "1.0.0",
+  "description": "simaple todo using socke io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhavinconfuse/Socket-Todo-App.git"
+  },
+  "keywords": [
+    "socket-todo"
+  ],
+  "author": "Bhavin confuse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhavinconfuse/Socket-Todo-App/issues"
+  },
+  "homepage": "https://github.com/Bhavinconfuse/Socket-Todo-App#readme",
+  "dependencies": {
+    "autoprefixer": "^9.1.5",
+    "bootstrap": "^4.1.3"
+  }
+}
